@@ -1,4 +1,4 @@
-/* Number 3
+
 *{
     padding: 0;
     margin: 0;
@@ -16,16 +16,6 @@ input{
     height: 45px;
     padding: 5px;
 }
-input:focus {
-    outline: none;
-}
-button{
-    margin-top: 20px;
-    border: 1px solid rgb(190, 185, 185);
-    border-radius: 5px;
-    width: 130px;
-    height: 40px;
-}
 .container{
     width: 1000px;
     margin:0 auto;
@@ -35,16 +25,6 @@ button{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-}
-.card:first-child{
-    border-radius: 20px;
-    background-color: white;
-    width: 320px;
-    height: 440px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
 }
 .card{
     border-radius: 20px;
@@ -56,11 +36,6 @@ button{
     margin-bottom: 30px;
     margin-top: 10px;
 }
-.border{
-    background-color: grey;
-    margin-bottom: 10px;
-}
-
 .top-img{
     border-radius: 20px 20px 0 0;
     padding-bottom: 10px;
@@ -86,7 +61,7 @@ p{
     height: 20px;
     align-items: center;
 }
- */
+
 
 /* Number 4 */
 /* *{
@@ -146,10 +121,7 @@ button{
     margin-bottom: 30px;
     margin-top: 10px;
 }
-.border{
-    background-color: grey;
-    margin-bottom: 10px;
-}
+
 
 .top-img{
     border-radius: 20px 20px 0 0;
